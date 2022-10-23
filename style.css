@@ -57,8 +57,7 @@ body {
 .service-title {
   font-size: 7rem;
   padding-bottom: 1rem;
-  color: rgb(114, 26, 191);
-
+  color: rgb(31, 14, 129);
 }
 
 .jumbotron {
@@ -90,6 +89,11 @@ body {
 
 footer>.padding {
   padding-bottom: 1rem;
+}
+
+p a {
+  text-decoration: none;
+  color: #222;
 }
 
 /*---Media Queries --*/
